@@ -1,0 +1,20 @@
+[book]
+authors = ["Matt Provost"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Carton"
+
+[rust]
+edition = "2018"
+
+[build]
+build-dir = "../public/book"
+
+[preprocessor.index]
+
+[preprocessor.links]
+
+[output.html]
+git-repository-url = "https://github.com/BSFishy/carton"
+site-url = "/book/"
