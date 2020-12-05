@@ -35,3 +35,6 @@ yarn-error.log*
 
 # mdBook
 /public/book/
+
+# Jetbrains project files
+.idea/
